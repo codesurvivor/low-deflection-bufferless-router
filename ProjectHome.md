@@ -1,0 +1,1 @@
+A novel bufferless router with very low-deflection rate. You can build a network-on-chip system based on this router.
